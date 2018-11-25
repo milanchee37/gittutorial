@@ -1,1 +1,1 @@
-This is RADME file for tutorial
+This is README file for tutorial
